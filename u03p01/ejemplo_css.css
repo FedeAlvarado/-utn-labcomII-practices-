@@ -1,0 +1,24 @@
+h2{
+    color: brown;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+h1{
+    font-size: larger;
+    color: chocolate;
+}
+
+p{
+    color: darkslategray;
+}
+
+h2,h1 {
+padding: 5%;
+margin: 5px;
+border-radius: 25%;
+width: 400px;
+height: 50px;
+border: 2px solid red;
+}
